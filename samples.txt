@@ -1,0 +1,13 @@
+add:
+{"id":null,"name":"test1","parentDepId":null,"managerId":null,"location":"c2","openPersitions":2}
+{"id":null,"name":"test2","parentDepId":1467876226180,"managerId":null,"location":"c3","openPersitions":2}
+{"id":null,"name":"test3","parentDepId":1467877820822,"managerId":null,"location":"c4","openPersitions":2}
+{"id":null,"name":"test4","parentDepId":1467877845160,"managerId":null,"location":"c5","openPersitions":2}
+
+getdetail:
+http://localhost:8080/res/dep/1467876226180
+
+
+
+employee 
+{"id":null,"depId":11,"firstName":"gg","lastName":"xx","ldapUserName":"oo","gender":1,"birthday":null,"title":"u","grade":"u"}
